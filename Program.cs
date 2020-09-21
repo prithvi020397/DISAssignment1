@@ -82,7 +82,7 @@ namespace Assignment1_ProgramingIntrodution
             for (int i = 0; i < A.Length - 1; i++)
             {
                 // Set the value to be true if the current bit is lesser than next bit
-                if (A[i] < A[i + 1])
+                if (A[i] <= A[i + 1])
                     isAscending = true;
                 else
                 {
@@ -94,7 +94,7 @@ namespace Assignment1_ProgramingIntrodution
             for (int i = 0; i < A.Length - 1; i++)
             {
                 // Set the value to be true if the current bit is lesser than next bit
-                if (A[i] > A[i + 1])
+                if (A[i] >= A[i + 1])
                     isDescending = true;
                 else
                 {
