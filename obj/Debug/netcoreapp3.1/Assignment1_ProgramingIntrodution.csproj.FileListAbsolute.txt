@@ -1,0 +1,13 @@
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\bin\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.exe
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\bin\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.deps.json
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\bin\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.runtimeconfig.json
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\bin\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.runtimeconfig.dev.json
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\bin\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.dll
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\bin\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.pdb
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\obj\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.AssemblyInfoInputs.cache
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\obj\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.AssemblyInfo.cs
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\obj\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.csproj.CoreCompileInputs.cache
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\obj\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.dll
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\obj\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.pdb
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\obj\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.genruntimeconfig.cache
+C:\Users\prith\source\repos\Assignment1_ProgramingIntrodution\obj\Debug\netcoreapp3.1\Assignment1_ProgramingIntrodution.csprojAssemblyReference.cache
